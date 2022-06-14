@@ -1,6 +1,6 @@
 //function declaration
 function sudetis(a, b) {
-    return a+b;
+    return a + b;
 }
 console.log('Sudetis: ', sudetis (7, 7));
 
