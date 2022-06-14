@@ -64,3 +64,34 @@ for (let i = 0; i < word.length; i++) {
     const letter = word[i];
     console.log(1, ')', letter);
 }
+
+console.log('--------------------------------------------------')
+ for (let i=10; 1 > 0; i--) {
+    console.log(i);
+    if (i === 5)
+        break;
+ } 
+
+
+const money = [5,10,20,50,100,5,10,20];
+const minTarget = 80;
+const hand = [10];
+let handTotal = 0;
+
+
+for (let i=0; i<money.length; i++) {
+    const value = money[i];
+    console.log('${i}) ${value} -> total: ${handTotal}');
+    if (handTotal >= minTarget) {
+        break
+    }
+}
+
+const graza = handTotal - minTarget;
+if (graza > 0) {
+    console.log ('graza: ${graza}');
+} else if (graza === 0) {
+    console.log('Duota lygiai tike kiek reikia pinigu')
+} else {
+    console.log('Tu skoloje dar: ${graza * - 1} pinigu');
+}
