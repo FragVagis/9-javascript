@@ -26,6 +26,7 @@
     "numberImport": "nodemon ./js/numberImport.js",
     "parsing": "nodemon ./js/parsing.js",
     "if-values": "nodemon ./js/if-values.js",
+    "textCount": "nodemon ./js/textCount.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
