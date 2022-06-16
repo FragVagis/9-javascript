@@ -18,6 +18,11 @@
     "switch": "nodemon ./js/switch.js",
     "other-loops": "nodemon ./js/other-loops.js",
     "string-array": "nodemon ./js/string-array.js",
+    "object": "nodemon ./js/object.js",
+    "math-as-array": "nodemon ./js/math-as-array.js",
+    "math-as-object": "nodemon ./js/math-as-object.js",
+    "letterCount": "nodemon ./js/letterCount.js",
+    "number-parsing": "nodemon ./js/number-parsing.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
