@@ -23,6 +23,7 @@
     "math-as-object": "nodemon ./js/math-as-object.js",
     "letterCount": "nodemon ./js/letterCount.js",
     "number-parsing": "nodemon ./js/number-parsing.js",
+    "numberImport": "nodemon ./js/numberImport.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
