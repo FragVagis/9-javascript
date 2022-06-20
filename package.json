@@ -27,6 +27,8 @@
     "parsing": "nodemon ./js/parsing.js",
     "if-values": "nodemon ./js/if-values.js",
     "textCount": "nodemon ./js/textCount.js",
+    "concat": "nodemon ./js/concat.js",
+    "set": "nodemon ./js/set.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
