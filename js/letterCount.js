@@ -19,7 +19,7 @@ function charCount(str) {
 }
 
 console.log(charCount(text));
-
+console.log('----------');
 const bigText = 'as tu jis banana ji mes tu jis ji jus jie jos mes jus jie jos as tu jis ji';
 
 function wordCount(str) {

@@ -11,7 +11,7 @@ function randomBetween(min, max) {
 const stats = {};
 
 
-for(let i = 0; i < 10000; i++) {
+for(let i = 0; i < 10; i++) {
     const n = randomBetween(1, 2);
     if (n in stats) {
         stats[n]++;

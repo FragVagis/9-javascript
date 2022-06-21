@@ -30,6 +30,10 @@
     "concat": "nodemon ./js/concat.js",
     "set": "nodemon ./js/set.js",
     "random": "nodemon ./js/random.js",
+    "pairCount": "nodemon ./js/pairCount.js",
+    "numCount": "nodemon ./js/numCount.js",
+    "maxInList": "nodemon ./js/maxInList.js",
+    "family": "nodemon ./js/family.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
