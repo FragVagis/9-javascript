@@ -1,3 +1,4 @@
+console.clear();
 console.log('-----------PRDADŽIA-----------')
 
 const marks = [10, 2, 8, 4, 6]
