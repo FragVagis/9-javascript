@@ -36,6 +36,7 @@
     "family": "nodemon ./js/family.js",
     "pc-storage": "nodemon ./js/pc-storage.js",
     "bandymai": "nodemon ./js/bandymai.js",
+    "destructuring": "nodemon ./js/destructuring.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
